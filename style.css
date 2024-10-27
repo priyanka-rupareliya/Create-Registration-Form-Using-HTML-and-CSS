@@ -1,0 +1,23 @@
+form{margin:0 auto;
+     width: 350px;
+    }
+
+h2{text-align: center;}
+
+textarea{ overflow-y: scroll;}
+
+button{border-radius: 10px;
+     background-color: cornflowerblue;
+    }
+
+input{
+    text-align: center;
+    border:1px solid gray ;
+    border-radius:5px ;
+    padding: 5px 10px;}
+    
+
+.center{ display: flex;
+        justify-content: space-evenly;}
+
+        
